@@ -19,9 +19,9 @@ Estudos sobre pinguins e outros componentes da fauna polar são cruciais para en
 
 Este projeto vai abordar questões como:
 
-- Quais diferenças morfológicas existem entre as espécies de pinguins?
-- Como essas dimensões podem ser utilizadas para fins de classificação e monitoramento?
-- Existe uma relação entre características físicas e fatores ambientais?
+1. Quais diferenças morfológicas existem entre as espécies de pinguins?
+2. Como essas dimensões podem ser utilizadas para fins de classificação e monitoramento?
+3. Existe uma relação entre características físicas e fatores ambientais?
 
 ## Estrutura dos Dados
 As variáveis principais incluem:
