@@ -1,4 +1,4 @@
-# <Análise das Dimensões do Bico dos Pinguins do Arquipélago Palmer>
+# <Análise das Dimensões do Bico dos Pinguins do Arquipélago Palmer: Comparação entre as Espécies e Relação com Fatores Ambientais>
 
 Este projeto examina as dimensões do bico (comprimento e profundidade) em três espécies de pinguins. Ele é baseado no conjunto de dados Palmer Penguins, oferecendo uma alternativa visual e analítica ao conjunto clássico iris.
 
